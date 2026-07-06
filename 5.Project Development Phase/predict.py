@@ -2,7 +2,7 @@ import joblib
 import numpy as np
 
 # Load the trained model
-model = joblib.load("models/flood_model.pkl")
+model = joblib.load("Models/flood_model.pkl")
 
 def predict_flood(data):
     """
