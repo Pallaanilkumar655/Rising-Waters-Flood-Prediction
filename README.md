@@ -3,7 +3,10 @@
 ## 📌 Project Overview
 
 Rising Waters is a Machine Learning-based Flood Prediction System developed as part of the APSCHE AI/ML & GenAI Internship. The application predicts the likelihood of flooding based on weather and rainfall parameters using a trained Random Forest Classifier. A user-friendly Flask web application allows users to enter weather details and receive an instant flood prediction.
+## 🌐 Live Demo
 
+**Live Application:**
+https://rising-waters-flood-prediction-xbdj.onrender.com
 ---
 
 ## 🎯 Problem Statement
